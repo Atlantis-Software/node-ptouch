@@ -1,7 +1,7 @@
 {
   "name": "node-ptouch",
   "description": "A node.js library to print ptouch label on brother label printer.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Alexandre Tiertant <a.tiertant@atlantis-software.net>",
   "license": "MIT",
   "main": "./lib/index.js",
