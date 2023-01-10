@@ -8,6 +8,7 @@ a node.js library to print ptouch label on brother label printer.
 now tested on:
 
 * QL-820NWB
+* QL-1110NWB
 
 ## Installation
 
